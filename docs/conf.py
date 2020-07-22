@@ -20,7 +20,7 @@
 project = 'readthedocs_test'
 copyright = '2020, Adam Sawicki'
 author = 'Adam Sawicki'
-
+master_doc = 'index'
 
 # -- General configuration ---------------------------------------------------
 
