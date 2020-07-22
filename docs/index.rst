@@ -12,6 +12,9 @@ Welcome to readthedocs_test's documentation!
 
 Hello World!
 
+.. doxygenfunction:: main
+   :project: ReadTheDocs Test
+
 Indices and tables
 ==================
 
